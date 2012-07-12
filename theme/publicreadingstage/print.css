@@ -1,0 +1,50 @@
+@import "styles.css";
+
+* {
+	color: black !important;
+}
+
+ul.xoxo, #respond, #access, #topheader, .reply , .sharebuttonsanywhere, .ui-icon, .supersites, #carousel {
+	display: none;
+}
+
+p.printonlyheadline {
+	font-size: 2em;
+	position: static !important;
+	top: 0;
+	left: 0 !important;
+	font-weight: bold;
+	padding: 0.5em 0;
+}
+
+#content a:link:after, #content a:visited:after, #sidebar a:link:after, #sidebar a:visited:after { 
+	content:" [" attr(href) "] "; 
+}
+
+#tocinner, #searchinner, #tagsinner, #lightbox-background, a#close-panel, #jumplinks {
+	display: none;
+}
+
+#billtext, #explanatorynotes, #lightbox-content {
+	width: 100%;
+	height: auto;
+}
+
+#lightbox-wrapper {
+	display: block;
+	position: relative;
+	left: 0;
+	top: 0;
+	margin: 1em 0 !important;
+	width: 100% !important;
+	height: auto;
+	border: 0;
+}
+
+#tocinner h2,
+#searchinner h2,
+#explanatorynotesinner h2,
+#discussion h2 {
+	background: none !important;
+	padding-left: 0;
+}

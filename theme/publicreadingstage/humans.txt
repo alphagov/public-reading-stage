@@ -1,0 +1,36 @@
+/* TEAM */
+       
+Developer: Steph Gray                          
+Twitter: @lesteph
+From: Helpful Technology
+
+PM: Alex Jackson                     
+Twitter: @lexij
+From: GDS
+							
+/* THANKS */
+							
+Client: Ben Sneddon
+From: Office of the Leader of the House of Commons
+
+Advisor: John Sheridan
+Twitter: @johnlsheridan
+From: Legislation.gov.uk
+
+Advisor: Jeni Tennison
+Twitter: @jennit
+From: TSO/Legislation.gov.uk
+
+Advisor: Richard Parsons
+Twitter: @problybored
+From: eDemocracyblog.com
+
+Advisor: Anthony Zacharzewski
+Twitter: @anthonyzach
+From: The Democratic Society
+
+/* SITE */
+
+Last update: 2012/07/12
+Standards: HTML5, CSS3
+Components: WordPress, jQuery
